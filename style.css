@@ -1,0 +1,46 @@
+body {
+    background-color: beige;
+}
+
+h1,
+h2,
+p {
+    text-align: center;
+}
+
+h3 {
+    padding: 15px;
+}
+
+#dropdown {
+    width: 155px;
+    height: 70px;
+    font-size: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 15px;
+}
+
+#daysdropdown {
+    width: 155px;
+    font-size: 12px;
+}
+
+form {
+    border: solid;
+    padding: inherit;
+    width: 400px;
+}
+
+button {
+    width: 60px;
+    height: 25px;
+    font-size: 14px;
+}
+
+#firstName,
+#lastName {
+    font-size: 15px;
+}
